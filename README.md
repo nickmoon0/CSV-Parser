@@ -2,7 +2,7 @@
 This is a project I created for an assessment in year 12. The aim was to make an interface where the user could upload '.csv'
 files to be parsed. The program would then have to handle any errors in the file, store the contents in the database and later
 retrieve the contents of the database if requested. I chose a web interface for this task and used VueJS for the frontend and
-NodeJS for the backend
+NodeJS for the backend. Python is also used to check for new files that have been uploaded in the backend.
 
 ## To run:
 1. Please install python 3.6.5 from: https://www.python.org/downloads/release/python-365/
