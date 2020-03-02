@@ -15,14 +15,14 @@ NodeJS for the backend. Python is also used to check for new files that have bee
 	password = The password used to login to the database
 5. Make sure the MySQL server is running 
 
-6. Open a new terminal window and change your directory to "[...]/CompSci_proj/backend/File\ Parser"
+6. Open a new terminal window and change your directory to ```[...]/CSV-Parser/backend/File\ Parser```
 7. Upon doing this type "source venv/bin/activate", press enter and then type ```python main.py```
 
-8. Open a new terminal window and change your directory to "[...]/CompSci_proj/backend/API\ Server"
+8. Open a new terminal window and change your directory to ```[...]/CSV-Parser/backend/API\ Server```
 9. Type ```npm install``` to ensure that all dependencies are installed
 10. Then type ```npm run dev```
 
-11. Open a new terminal window and change your directory to "[...]/CompSci_proj/frontend"
+11. Open a new terminal window and change your directory to ```[...]/CSV-Parser/frontend```
 12. Type ```npm install``` to ensure that all dependencies are installed
 13. Type ```npm run dev```
   
