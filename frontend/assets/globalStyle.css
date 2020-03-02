@@ -1,0 +1,59 @@
+* {
+	font-family: DyeLine;
+}
+
+html,
+body {
+	height: 100%;
+}
+.tableContainer {
+	padding-top: 20px;
+}
+table {
+	margin-left: auto;
+	margin-right: auto;
+}
+#__layout,
+#__nuxt {
+	height: 100%;
+}
+.textBox {
+	margin-top: 5px;
+}
+
+h1 {
+	padding: 10px;
+	text-align: center;
+}
+
+@font-face {
+	font-family: "simplifica";
+	src: url("~assets/fonts/SIMPLIFICA/SIMPLIFICA.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "DyeLine";
+	src: url("~assets/fonts/DyeLine/DyeLine-Regular5.ttf") format("truetype");
+}
+@font-face {
+	font-family: "DyeLine";
+	src: url("~assets/fonts/DyeLine/DyeLine-Regular4.ttf") format("truetype");
+	font-weight: bold;
+}
+
+.title {
+	text-align: center;
+	letter-spacing: 5px;
+
+	padding: 1.5px;
+}
+a:hover {
+	text-decoration: none;
+	color: #007399;
+}
+.successMsg {
+	color: #47d147;
+}
+.errorMsg {
+	color: #ff1a1a;
+}

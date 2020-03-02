@@ -1,0 +1,39 @@
+#sidebar {
+	max-width: 200px;
+	min-width: 200px;
+	min-height: 100vh;
+
+	margin: 0;
+	display: grid;
+	text-align: center;
+}
+
+.centeredBottomText {
+	text-align: center;
+	position: relative;
+	bottom: 0;
+}
+.sidebarWrap {
+	max-width: 200px;
+	padding: 1 rem;
+	border-left: 0px;
+	border-style: solid;
+	border-image: linear-gradient(to top, white, #b3b3b3, rgba(0, 0, 0, 0)) 1 100%;
+	border-image-width: 0px, 2px, 0px, 0px;
+	position: relative;
+}
+.wrapper {
+	display: flex;
+	width: 100%;
+}
+.bottomText {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	margin-bottom: 20px;
+}
+.listElement {
+	margin-bottom: 20px;
+}
