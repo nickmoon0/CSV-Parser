@@ -5,7 +5,7 @@
 	},
 	"dependencies": {
 		"@nuxtjs/axios": "^5.4.1",
-		"axios": "^0.18.0",
+		"axios": "^0.18.1",
 		"bootstrap-vue": "^2.0.0-rc.18",
 		"cookieparser": "^0.1.0",
 		"jquery": "^3.4.0",
