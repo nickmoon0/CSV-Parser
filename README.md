@@ -4,7 +4,7 @@ files to be parsed. The program would then have to handle any errors in the file
 retrieve the contents of the database if requested. I chose a web interface for this task and used VueJS for the frontend and
 NodeJS for the backend. Python is also used to check for new files that have been uploaded in the backend.
 
-## To run:
+## To Run:
 1. Please install python 3.6.5 from: https://www.python.org/downloads/release/python-365/
 2. Please install the latest version of node.js from: https://nodejs.org/en/
 (npm should have been installed with node.js however if it wasn't please install npm from: https://www.npmjs.com/products)
